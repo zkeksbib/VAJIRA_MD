@@ -95,6 +95,8 @@
     "@mrnima/tiktok-downloader" :"^1.0.0",
     "@mrnima/facebook-downloader" : "^1.0.0",
     "cloudscraper" : "4.6.0",
+    "axios-cookiejar-support": "latest",
+    "tough-cookie": "latest",
     "tempmail.js": "latest",
     "qs": "latest",
     "adm-zip": "^0.5.16",
